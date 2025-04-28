@@ -1,0 +1,25 @@
+# Core Data Science (Required)
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.2.0
+
+# Visualization (Required)
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.13.0
+
+# Statistical Analysis (Required)
+statsmodels>=0.14.0
+
+# Jupyter Environment (Required)
+jupyter>=1.0.0
+notebook>=7.0.0
+ipython>=8.0.0
+ipykernel>=6.0.0
+
+# Excel Support (Required)
+openpyxl>=3.1.0
+
+# Optional Dependencies
+# Install these manually if you have Python <= 3.12.9:
+# pip install ydata-profiling>=4.1.0
